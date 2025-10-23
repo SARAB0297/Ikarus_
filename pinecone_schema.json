@@ -1,0 +1,15 @@
+{
+    "index_name": "ikarus-text-embeddings",
+    "dimension": 384,
+    "metric": "cosine",
+    "fields": [
+        "uniq_id",
+        "title",
+        "brand",
+        "price",
+        "categories",
+        "primary_category",
+        "color",
+        "material"
+    ]
+}
